@@ -1,35 +1,51 @@
 body{
-	background: -webkit-linear-gradient(right, #00FF00, #000000, #00aa00);
-	background: -moz-linear-gradient(right, #00FF00, #000000, #00aa00);
-	background: -o-linear-gradient(right, #00FF00, #000000, #00aa00);
-	background: linear-gradient(to right, #00FF00, #000000, #00aa00);
-	color: #00FF00;
+	background: -webkit-linear-gradient(180deg, #d5d383, #efc776, #f8cb39);
+	background: -moz-linear-gradient(180deg, #d5d383, #efc776, #f8cb39);
+	background: -o-linear-gradient(180deg, #d5d383, #efc776, #f8cb39);
+	background: linear-gradient(180deg, #d5d383, #efc776, #f8cb39);
+	color: #d5d383;
 }
 
 h1{
-	color: #00eeff;
-	text-shadow:0 0 2px aqua;
-	font-family: times new roman, arial;
+	color: #2c0202;
+	text-shadow:0 0 8px rgb(33, 24, 48);
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	/* add some padding around the title */
+	padding: 15px;
+	/* center the title text */
+	text-align: center;
+	font-size: x-large;
 }
 
 h2{
-	color: #000fff;
-	text-shadow:0 0 2px blue;
-	font-family: times new roman, arial;
+	color: #2c0202;
+	text-shadow:0 0 8px rgb(33, 24, 48);
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	/* add some padding around the title */
+	padding: 15px;
+	/* center the title text */
+	text-align: center;
+	font-size: larger;
 }
 
 h3{
-	color: #ffbbbb;
-	text-shadow:0 0 2px blue;
-	font-family: times new roman, arial;
+	color: #2c0202;
+	text-shadow:0 0 8px rgb(33, 24, 48);
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	/* add some padding around the title */
+	padding: 15px;
+	/* center the title text */
+	text-align: center;
+	font-size: large;
 }
 
 p{
-	color: #00bbbb;
-	text-shadow:0 0 2px purple;
-	font-family: times new roman, arial;
+	color: #141414;
+	text-shadow:0 0 4px rgb(33, 24, 48);
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	padding: 15px;
 }
 
 a:visited{
-	color: aqua;
+	color: #141414;
 }
