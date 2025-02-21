@@ -7,8 +7,8 @@ body{
 }
 
 h1{
-	color: #f4f0cd;
-	text-shadow:1 1 10px rgb(154, 135, 106);
+	color: #aeaeaa;
+	text-shadow:1 1 10px rgb(88, 80, 67);
 	font-family: fantasy;
 	/* add some padding around the title */
 	padding: 20px;
@@ -18,8 +18,8 @@ h1{
 }
 
 h2{
-	color:#f4f0cd;
-	text-shadow:1 1 10px rgb(154, 135, 106);
+	color:#aeaeaa;
+	text-shadow:1 1 10px rgb(88, 80, 67);
     font-family: fantasy;
 	/* add some padding around the title */
 	padding: 20px;
@@ -29,8 +29,8 @@ h2{
 }
 
 h3{
-	color: #f4f0cd;
-	text-shadow:1 1 10px rgb(154, 135, 106);
+	color: #aeaeaa;
+	text-shadow:1 1 10px rgb(88, 80, 67);
 	font-family: fantasy;
 	/* add some padding around the title */
 	padding: 20px;
@@ -40,12 +40,12 @@ h3{
 }
 
 p{
-	color: #f4f0cd;
-	text-shadow:1 1 10px rgb(154, 135, 106);
+	color: #aeaeaa;
+	text-shadow:1 1 10px rgb(88, 80, 67);
 	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 	padding: 15px;
 }
 
 a:visited{
-	color: #f4f0cd;
+	color: #aeaeaa;
 }
